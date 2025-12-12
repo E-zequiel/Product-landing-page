@@ -1,6 +1,6 @@
 # Product landing page
 
-Este proyecto tiene su contexto en la certificación Responsive Web Design de freeCodeCamp (https://www.freecodecamp.org/learn/responsive-web-design-v9/).
+Este proyecto tiene su contexto en la certificación `Responsive Web Design` de freeCodeCamp: https://www.freecodecamp.org/learn/responsive-web-design-v9/.
 
 Transcribo abajo las consignas.
 
@@ -22,4 +22,8 @@ Transcribo abajo las consignas.
 - Your product landing page should have at least one media query.
 - Your product landing page should utilize CSS flexbox at least once.
 
-Note: Be sure to link your stylesheet in your HTML and apply your CSS.
+## Recursos utilizados
+
+- Nerd Fonts - https://github.com/ryanoasis/nerd-fonts
+- JetBrainsMono - https://github.com/JetBrains/JetBrainsMono
+- SVG Repo - https://www.svgrepo.com/
