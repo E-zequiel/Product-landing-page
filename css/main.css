@@ -108,7 +108,7 @@ body {
   width: 100%;
   height: 8rem;
   gap: 1.5em;
-  margin: 8% 0;
+  margin: 8% 0 0;
 }
 
 #title {
@@ -245,7 +245,7 @@ h2 {
 .packs li {
   list-style: none;
   position: relative;
-  padding-left: 0.7em;
+  padding-left: 0.9em;
 }
 
 .packs li::before {
@@ -253,7 +253,7 @@ h2 {
   position: absolute;
   left: 0;
   top: 50%;
-  margin-left: -8%;
+  margin-left: -9.4%;
   transform: translateY(-50%);
   width: 25px;
   height: 25px;
@@ -274,6 +274,7 @@ h2 {
 #form label {
   display: block;
   margin-bottom: 0.5em;
+  margin-top: 4em;
 }
 
 #email {
