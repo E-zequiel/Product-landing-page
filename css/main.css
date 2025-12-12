@@ -217,6 +217,11 @@ h2 {
   margin: 5%;
 }
 
+section iframe {
+  width: min(100%, 90em);
+  margin: 0 auto;
+}
+
 #video {
   aspect-ratio: 16/9;
   border: none;
@@ -228,7 +233,6 @@ h2 {
     0 1.2em 3.2em -2.4em rgba(var(--background-storm-color), 0.4),
     0 1.5em 3.6em -2.8em rgba(var(--background-storm-color), 0.5);
   width: 100%;
-  margin: 0 auto;
   height: auto;
   object-fit: cover;
   overflow: hidden;
@@ -365,10 +369,6 @@ h2 {
     height: 4em;
   }
 
-  #video {
-    width: min(100%, 90em);
-  }
-
   .section:is(#pricing),
   .section:not(#video) {
     margin: 5% 15% 5% 20%;
@@ -400,12 +400,8 @@ h2 {
     height: 5em;
   }
 
-  .packs li {
-    padding-left: 24px;
-  }
-
   .packs li::before {
-    margin-left: -4.05%;
+    margin-left: -4%;
     line-height: 2rem;
   }
 }
